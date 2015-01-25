@@ -197,8 +197,6 @@ Guardamos los datos
 ```{r}
 #backup
 save(tarjetasblack, file="data/tarjetasblack.rda")
-#saveRDS(tarjetasblack, file="tutorial-dplyr-es/data/movimientos.rds")
-#write.csv(tarjetasblack, file="tutorial-dplyr-es/data/movimientos.csv", row.names=F)
 ```
 
 
