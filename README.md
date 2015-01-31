@@ -6,4 +6,4 @@ Este set de datos contiene los movimientos de las famosas [tarjetas *black* de C
 
 Install:
 
-* From gituhb, with `devtools::install_github("splatsh/tarjetasblack")`
+* From github, with `devtools::install_github("splatsh/tarjetasblack")`
