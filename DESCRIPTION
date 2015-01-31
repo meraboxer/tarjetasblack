@@ -8,3 +8,4 @@ Maintainer: fanch <fanch@protonmail.ch>
 Description: A data only package containing movements of unfamous Caja Madrid's black credit card 
 License: GNU/GPL
 LazyData: true
+NeedsCompilation: no
