@@ -6,3 +6,4 @@ packrat/*
 .Rbuildignore
 .gitignore
 data/actividades.csv
+packrat/lib*/
